@@ -3,8 +3,8 @@ A distributed key-value store built from scratch in Java, implementing a custom 
 
 Why two systems?
 
-The repo contains two independent, fully working implementations that solve durability and replication differently:
-1.) Simple Store<br>
+The repo contains two independent, fully working implementations that solve durability and replication differently:<br>
+1.) Simple Store
 2.) Raft-Backed Store
 
 # Core features
